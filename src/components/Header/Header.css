@@ -1,0 +1,32 @@
+.img-div {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.45) 0%, rgba(0, 0, 0, 0.6) 100%);
+}
+
+.Header-img {
+    position: relative;
+    width: 1440px;
+    height: 440px;
+}
+
+.Header-text {
+    position: absolute;
+    left: 200px;
+    top: 358px;
+    color: #FFFFFF;
+}
+
+.Header-text h1 {
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 47px;
+}
+
+.Header-text h2 {
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+}
